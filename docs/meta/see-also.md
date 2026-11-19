@@ -71,6 +71,13 @@ This is a list of cores that are related to each other in some way.
 - [Microsoft - MSX (fMSX)](../library/fmsx.md)
 - [MSX/SVI/ColecoVision/SG-1000 (blueMSX)](../library/bluemsx.md)
 
+## J2ME
+
+- [Mobile - J2ME (FreeJ2ME)](../library/freej2me.md)
+- [Mobile - J2ME (FreeJ2ME-Plus)](../library/freej2me_plus.md)
+- [Mobile - J2ME (nano_j2me)](../library/nano_j2me.md)
+- [Mobile - J2ME (SquirrelJME)](../library/squirreljme.md)
+
 ## GB
 
 - [Nintendo - Game Boy / Color (Emux GB)](../library/emux_gb.md)
